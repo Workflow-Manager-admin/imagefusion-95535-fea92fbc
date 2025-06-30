@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/imagefusion-95535-fea92fbc/image_processing_backend"
+}
